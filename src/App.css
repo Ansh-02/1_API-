@@ -1,0 +1,15 @@
+.myDiv {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px;
+  padding: 12px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item {
+  width: 20%;
+  margin: 15px;
+}
